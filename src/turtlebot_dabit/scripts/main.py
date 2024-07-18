@@ -1,10 +1,3 @@
-'''
-Author: Dianye Huang
-Date: 2024-05-31 11:06:29
-LastEditors: Dianye Huang
-LastEditTime: 2024-05-31 19:47:41
-Description:
-'''
 
 import rosbag
 import numpy as np
